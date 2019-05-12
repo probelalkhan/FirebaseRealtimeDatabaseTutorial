@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20810722042",
+    "firebase_url": "https://wallpaper-fad42.firebaseio.com",
+    "project_id": "wallpaper-fad42",
+    "storage_bucket": "wallpaper-fad42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20810722042:android:421ae567a447efca",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding.firebaserealtimedatabasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20810722042-ac9i4sikeg5r4i90ani3ahdcl39jlm2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.simplifiedcoding.firebaserealtimedatabasetutorial",
+            "certificate_hash": "77dc894b24bbb0b1a0244af0b95a1e730ef6ba90"
+          }
+        },
+        {
+          "client_id": "20810722042-std7p26rfggeuha7m34p554vk0toe7g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KJV9qAF0qlK-C71UqHbb9NBhmoFc2Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20810722042-std7p26rfggeuha7m34p554vk0toe7g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
